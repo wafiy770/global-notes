@@ -1,0 +1,1 @@
+- [Feature] Context: website/newsletters that allows commenting. Highlight some parts of an article, right click to comment quoting the highlighted part of the articles
